@@ -1,0 +1,19 @@
+{
+  "name": "discordbots",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odeveci-tgm/DiscordBots.git"
+  },
+  "author": "Osman Deveci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odeveci-tgm/DiscordBots/issues"
+  },
+  "homepage": "https://github.com/odeveci-tgm/DiscordBots#readme"
+}
